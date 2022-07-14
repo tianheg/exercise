@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Minimal Notes</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+  </head>
+  <body>
+    <div id="app">
+      <h2>{{ title }}</h2>
+      <textarea
+        autofocus
+        placeholder="insert your note..."
+        v-model="note.text"
+      ></textarea>
+      <button class="button" @click="addNote">Add Note</button>
+      <div v-for="(note, index) in notes">
+        <div class="top">
+          <button class="close" @click="removeNote(index)"></button>
+          <i>{{ note.date }}</i>
+        </div>
+        {{ note.text }}
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>

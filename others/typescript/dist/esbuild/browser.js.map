@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/main.ts", "../../src/browser.ts"],
+  "sourcesContent": ["export const delayMillis = (delayMs: number): Promise<void> => new Promise(resolve => setTimeout(resolve, delayMs))\n\nexport const greet = (name: string): string => `Hello ${name}`\n\nexport const foo = async (): Promise<boolean> => {\n  console.log(greet('World'))\n  await delayMillis(1000)\n  console.log('done')\n  return true\n}", "import { foo } from './main'\n\n// eslint-disable-next-line @typescript-eslint/no-explicit-any\n(window as any).foo = foo\n\nconsole.log('Method \"foo\" was added to the window object. You can try it yourself by just entering \"await foo()\"')"],
+  "mappings": "iUAAO,GAAM,GAAc,AAAC,GAAmC,GAAI,SAAQ,GAAW,WAAW,EAAS,IAE7F,EAAQ,AAAC,GAAyB,SAAS,IAE3C,EAAM,IAA8B,0BAC/C,eAAQ,IAAI,EAAM,UAClB,KAAM,GAAY,KAClB,QAAQ,IAAI,QACL,KCLT,AAAC,OAAe,IAAM,EAEtB,QAAQ,IAAI",
+  "names": []
+}

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script
+      crossorigin
+      src="https://unpkg.com/react@17/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"
+    ></script>
+  </head>
+
+  <body>
+    <div id="example"></div>
+    <script type="text/babel">
+      class MyList extends React.Component {
+        constructor(...args) {
+          super(...args)
+          this.state = {
+            loading: true,
+            error: null,
+            data: null,
+          }
+        }
+
+        componentDidMount() {
+          const url =
+            'https://api.github.com/search/repositories?q=javascript&sort=stars'
+          $.getJSON(url)
+            .done((value) =>
+              this.setState({
+                loading: false,
+                data: value,
+              }),
+            )
+            .fail((jqXHR, textStatus) =>
+              this.setState({
+                loading: false,
+                error: jqXHR.status,
+              }),
+            )
+        }
+
+        render() {
+          if (this.state.loading) {
+            return <span>Loading...</span>
+          } else if (this.state.error !== null) {
+            return <span>Error: {this.state.error}</span>
+          } else {
+            console.log(this.state.data)
+            var projects = this.state.data.items
+            var results = []
+            projects.forEach((p) => {
+              var item = <li>{p.name}</li>
+              results.push(item)
+            })
+            return (
+              <div>
+                <p>API 数据获取成功</p>
+                <p>改写代码，将结果显示在这里</p>
+                <ul>{results}</ul>
+              </div>
+            )
+          }
+        }
+      }
+
+      ReactDOM.render(<MyList />, document.getElementById('example'))
+    </script>
+  </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Change Button Text</title>
+  </head>
+  <body>
+    <button class="off">Machine is off</button>
+    <script>
+      let btn = document.querySelector('.off')
+      btn.addEventListener('click', offToOn)
+      function offToOn() {
+        if (btn.innerHTML == 'Machine is off') {
+          btn.innerHTML = 'Machine is on'
+        } else {
+          btn.innerHTML = 'Machine is off'
+        }
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Button</title>
+    <style>
+      /* .container {
+        height: 200px;
+        position: relative;
+      }
+
+      .vertical-center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+      }
+
+      button {
+        border-radius: 5px;
+        color: white;
+        background-color: #0f5897;
+        padding: 5px 10px 8px 10px;
+      }
+
+      button:hover {
+        animation-name: background-color;
+        animation-duration: 500ms;
+      }
+
+      @keyframes background-color {
+        100% {
+          background-color: #4791d0;
+        }
+      } */
+
+      /* body center */
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        overflow: hidden;
+        margin: 0;
+      }
+
+      button {
+        border-radius: 5px;
+        color: white;
+        background-color: #0f5897;
+        padding: 5px 10px 8px 10px;
+      }
+
+      button:hover {
+        animation-name: background-color;
+        animation-duration: 500ms;
+      }
+
+      @keyframes background-color {
+        100% {
+          background-color: #4791d0;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- <div class="container">
+      <div class="vertical-center">
+        <button>Register</button>
+      </div>
+    </div> -->
+
+    <button>Register</button>
+    <script>
+      const btn = document.querySelector('button')
+      function random(number) {
+        return Math.floor(Math.random() * (number + 1))
+      }
+
+      // btn.onclick = function () {
+      //   const rndCol =
+      //     'rgb(' + random(255) + ',' + random(255) + ',' + random(255) + ')'
+      //   document.body.style.backgroundColor = rndCol
+      // }
+
+      function bgColor() {
+        const rndCol = 'rgb(' + random(255) + ',' + random(255) + ',' + random(255) + ')'
+        document.body.style.backgroundColor = rndCol
+      }
+
+      // btn.onclick = bgColor
+      btn.addEventListener('click', bgColor)
+    </script>
+  </body>
+</html>

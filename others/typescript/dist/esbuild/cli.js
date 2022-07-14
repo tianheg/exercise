@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+var p=typeof require!="undefined"?require:o=>{throw new Error('Dynamic require of "'+o+'" is not supported')};var l=(o,r,n)=>new Promise((a,i)=>{var c=e=>{try{t(n.next(e))}catch(s){i(s)}},d=e=>{try{t(n.throw(e))}catch(s){i(s)}},t=e=>e.done?a(e.value):Promise.resolve(e.value).then(c,d);t((n=n.apply(o,r)).next())});var g=o=>new Promise(r=>setTimeout(r,o)),u=o=>`Hello ${o}`,m=()=>l(void 0,null,function*(){return console.log(u("World")),yield g(1e3),console.log("done"),!0});m();

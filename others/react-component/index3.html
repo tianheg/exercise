@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <script
+      crossorigin
+      src="https://unpkg.com/react@17/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    ></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  </head>
+
+  <body>
+    <div id="example"></div>
+    <script type="text/babel">
+      var d = new Date()
+      class MyTitle extends React.Component {
+        constructor(...args) {
+          super(...args)
+          this.state = {
+            text: 'World',
+            isClicked: false,
+          }
+        }
+        handleClick() {
+          let isClicked = !this.state.isClicked
+          this.setState({
+            isClicked: isClicked,
+            text: isClicked ? d.getFullYear() : 'World',
+          })
+        }
+
+        render() {
+          return (
+            <h1 onClick={this.handleClick.bind(this)}>
+              {'Hello ' + this.state.text}
+            </h1>
+          )
+        }
+      }
+
+      ReactDOM.render(<MyTitle />, document.getElementById('example'))
+    </script>
+  </body>
+</html>

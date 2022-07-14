@@ -1,0 +1,2631 @@
+{
+  "code": 0,
+  "message": "0",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1os411h77o",
+    "aid": 8074534,
+    "videos": 182,
+    "tid": 231,
+    "tname": "计算机技术",
+    "copyright": 2,
+    "pic": "http://i1.hdslb.com/bfs/archive/2f2b673fcac74a45e1d1acc6727d268dbd18de88.png",
+    "title": "《郝斌C语言自学教程》",
+    "pubdate": 1484719679,
+    "ctime": 1497436279,
+    "desc": "http://www.xuexi111.com/jiaocheng/shipin/26243.html 郝斌 - 瑞德学校教学组长\n郝斌老师，瑞德学校担任教学组长，曾在雅博等公司担任项目总监。\n6年开发经验，擅长C/C++ 、Java、 数据结构、数据库。具有四年培训经验。\n郝斌老师所录制的计算机(编程)教学视频，很适合初学者。\n随堂写代码，不是一味的念PPT，讲解很深入，初学者很不错的选择。",
+    "desc_v2": [
+      {
+        "raw_text": "http://www.xuexi111.com/jiaocheng/shipin/26243.html 郝斌 - 瑞德学校教学组长\n郝斌老师，瑞德学校担任教学组长，曾在雅博等公司担任项目总监。\n6年开发经验，擅长C/C++ 、Java、 数据结构、数据库。具有四年培训经验。\n郝斌老师所录制的计算机(编程)教学视频，很适合初学者。\n随堂写代码，不是一味的念PPT，讲解很深入，初学者很不错的选择。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 140346,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0
+    },
+    "owner": {
+      "mid": 32847571,
+      "name": "蠢杠杠",
+      "face": "http://i2.hdslb.com/bfs/face/bad65a8fe68e42f1dbab182eed2ac06f23b78824.jpg"
+    },
+    "stat": {
+      "aid": 8074534,
+      "view": 5203451,
+      "danmaku": 263788,
+      "reply": 7910,
+      "favorite": 168139,
+      "coin": 32128,
+      "share": 37235,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 67624,
+      "dislike": 0,
+      "evaluation": "",
+      "argue_msg": ""
+    },
+    "dynamic": "",
+    "cid": 211666630,
+    "dimension": {
+      "width": 1280,
+      "height": 800,
+      "rotate": 0
+    },
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 211666630,
+        "page": 1,
+        "from": "vupload",
+        "part": "我对自学的一些看法",
+        "duration": 1134,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 800,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 211666679,
+        "page": 2,
+        "from": "vupload",
+        "part": "我为什么要出视频",
+        "duration": 646,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 800,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273426,
+        "page": 3,
+        "from": "vupload",
+        "part": "1_ C概述 _ 本讲内容概述",
+        "duration": 255,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273427,
+        "page": 4,
+        "from": "vupload",
+        "part": "2_ C概述 _ HelloWorld程序举例",
+        "duration": 224,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273428,
+        "page": 5,
+        "from": "vupload",
+        "part": "3_ C概述 _ C语言的起源和发展",
+        "duration": 1175,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273429,
+        "page": 6,
+        "from": "vupload",
+        "part": "4_ C概述 _ C的特点",
+        "duration": 871,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273430,
+        "page": 7,
+        "from": "vupload",
+        "part": "5_ C概述 _ C的应用领域",
+        "duration": 276,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273431,
+        "page": 8,
+        "from": "vupload",
+        "part": "6_ C概述 _ C的重要性",
+        "duration": 874,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273432,
+        "page": 9,
+        "from": "vupload",
+        "part": "7_ C概述 _ 怎样学C语言",
+        "duration": 434,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273433,
+        "page": 10,
+        "from": "vupload",
+        "part": "8_ C概述 _ 学习的目标",
+        "duration": 83,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273434,
+        "page": 11,
+        "from": "vupload",
+        "part": "9_ C概述 _ 常见问题答疑   1.学习java为什么建议先学C语言  2.没学过计算机专业课程能够学懂C语言么  3.英语和数学不好能学好C么？",
+        "duration": 594,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13273435,
+        "page": 12,
+        "from": "vupload",
+        "part": "10_ C概述 _ C语言课程总纲要",
+        "duration": 118,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277163,
+        "page": 13,
+        "from": "vupload",
+        "part": "11_ C概述 _ 一元二次方程详解 =",
+        "duration": 1722,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13276870,
+        "page": 14,
+        "from": "vupload",
+        "part": "12_ C概述 _ VC++6.0软件使用讲解=",
+        "duration": 659,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13276760,
+        "page": 15,
+        "from": "vupload",
+        "part": "13_ C概述 _ 回顾本讲内容=",
+        "duration": 205,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13276803,
+        "page": 16,
+        "from": "vupload",
+        "part": "14_ C编程预备计算机专业知识 _ 本讲概=",
+        "duration": 355,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13276772,
+        "page": 17,
+        "from": "vupload",
+        "part": "15_ cpu 内存条 硬盘 显卡 主板 显示器 之间的关系 =",
+        "duration": 229,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13276816,
+        "page": 18,
+        "from": "vupload",
+        "part": "16_ HelloWorld程序如何运行起来的==",
+        "duration": 329,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277059,
+        "page": 19,
+        "from": "vupload",
+        "part": "17_ C编程预备计算机专业知识 _ 数据类型 ==",
+        "duration": 1119,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13276945,
+        "page": 20,
+        "from": "vupload",
+        "part": "18_ C编程预备计算机专业知识 _ 什么是变量 =",
+        "duration": 506,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13276861,
+        "page": 21,
+        "from": "vupload",
+        "part": "19_  C编程预备计算机专业知识 _ cpu 内存条 vc++6.0 操作系统 之间的关系",
+        "duration": 112,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277124,
+        "page": 22,
+        "from": "vupload",
+        "part": "20变量为什么必须的初始化【重点】",
+        "duration": 940,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13276915,
+        "page": 23,
+        "from": "vupload",
+        "part": "21_ C编程预备计算机专业知识 _ 如何定义变量 =",
+        "duration": 179,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277438,
+        "page": 24,
+        "from": "vupload",
+        "part": "22_C编程预备计算机专业知识_什么叫进制【重点】 =",
+        "duration": 1728,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277139,
+        "page": 25,
+        "from": "vupload",
+        "part": "23_C编程预备计算机专业知识_常量在C语言中是如何表示的 =",
+        "duration": 651,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277132,
+        "page": 26,
+        "from": "vupload",
+        "part": "24_C编程预知识_常量以什么样的二进制代码存储在计算机中 =",
+        "duration": 317,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277202,
+        "page": 27,
+        "from": "vupload",
+        "part": "25_C编程预备计算机专业知识_本讲知识回顾 =",
+        "duration": 283,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277593,
+        "page": 28,
+        "from": "vupload",
+        "part": "26_C编程预备计算机专业知识_代码的规范化【重点】 =",
+        "duration": 1133,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277426,
+        "page": 29,
+        "from": "vupload",
+        "part": "27_C编程预备计算机专业知识_什么是字节.swf=",
+        "duration": 636,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277386,
+        "page": 30,
+        "from": "vupload",
+        "part": "28_C编程预备知识_不同类型数据之间相互赋值的问题 =",
+        "duration": 588,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277513,
+        "page": 31,
+        "from": "vupload",
+        "part": "29_char使用常见问题解析=",
+        "duration": 661,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277487,
+        "page": 32,
+        "from": "vupload",
+        "part": "30_什么是ASCII + 字符本质上与整数的存储方式相同 =",
+        "duration": 322,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277449,
+        "page": 33,
+        "from": "vupload",
+        "part": "31_printf和scanf简介=",
+        "duration": 100,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277594,
+        "page": 34,
+        "from": "vupload",
+        "part": "32_对初学编程者的一些个人建议=",
+        "duration": 648,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277749,
+        "page": 35,
+        "from": "vupload",
+        "part": "33_printf的用法详解_1【重点】 =.",
+        "duration": 1078,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277640,
+        "page": 36,
+        "from": "vupload",
+        "part": "34_如何编写出更有保存价值 和 更有学习价值的程序 --=.",
+        "duration": 419,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277564,
+        "page": 37,
+        "from": "vupload",
+        "part": "35_printf用法详解_2【重点】 =",
+        "duration": 167,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277897,
+        "page": 38,
+        "from": "vupload",
+        "part": "36_printf_3_printf为什么需要输出控制符=.",
+        "duration": 187,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277718,
+        "page": 39,
+        "from": "vupload",
+        "part": "37 _ 复习上节课内容 =",
+        "duration": 521,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277788,
+        "page": 40,
+        "from": "vupload",
+        "part": "38 _ scanf用法1 _ 不含输入控制符的用法",
+        "duration": 712,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277710,
+        "page": 41,
+        "from": "vupload",
+        "part": "39 _ scanf用法2 _ 含有非输入控制符=",
+        "duration": 381,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277746,
+        "page": 42,
+        "from": "vupload",
+        "part": "40 _ sacnf用法3 _ 一次给多个变量键盘赋值",
+        "duration": 455,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277941,
+        "page": 43,
+        "from": "vupload",
+        "part": "41 _ sacnf用法4 _ 如何使用scanf编写出高质 =",
+        "duration": 865,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277775,
+        "page": 44,
+        "from": "vupload",
+        "part": "42.运算符1 _ 运算符的分类和简单介绍",
+        "duration": 257,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277861,
+        "page": 45,
+        "from": "vupload",
+        "part": "43_运算符2 _ 除法与取余运算符",
+        "duration": 329,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277921,
+        "page": 46,
+        "from": "vupload",
+        "part": "44.运算符3 _ 逻辑运算符",
+        "duration": 792,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277857,
+        "page": 47,
+        "from": "vupload",
+        "part": "45.运算符4 _ 对初学运算符的一些建议",
+        "duration": 231,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277985,
+        "page": 48,
+        "from": "vupload",
+        "part": "46.scanf复习",
+        "duration": 906,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277895,
+        "page": 49,
+        "from": "vupload",
+        "part": "47.流程控制1_什么是流程控制",
+        "duration": 219,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277908,
+        "page": 50,
+        "from": "vupload",
+        "part": "48.流程控制2 _ 流程控制的分类",
+        "duration": 81,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277968,
+        "page": 51,
+        "from": "vupload",
+        "part": "49.流程控制3 _ 复习上节课内容",
+        "duration": 478,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13277969,
+        "page": 52,
+        "from": "vupload",
+        "part": "50_流程控制4_流程控制为什么非常非常重要",
+        "duration": 636,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278295,
+        "page": 53,
+        "from": "vupload",
+        "part": "51_选择1_if概述",
+        "duration": 196,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278336,
+        "page": 54,
+        "from": "vupload",
+        "part": "52_选择2_if最简单的用法",
+        "duration": 416,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278489,
+        "page": 55,
+        "from": "vupload",
+        "part": "53_选择3_if的范围问题【重点】",
+        "duration": 866,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278464,
+        "page": 56,
+        "from": "vupload",
+        "part": "54_选择4_if..else...的用法",
+        "duration": 631,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278380,
+        "page": 57,
+        "from": "vupload",
+        "part": "55_选择5_if..else if...else..的用法",
+        "duration": 589,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278304,
+        "page": 58,
+        "from": "vupload",
+        "part": "56_选择6_C语言对真假的处理",
+        "duration": 37,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278583,
+        "page": 59,
+        "from": "vupload",
+        "part": "57_选择7_if举例--求分数的等级",
+        "duration": 1089,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278519,
+        "page": 60,
+        "from": "vupload",
+        "part": "58_if例子1_互换两个数字",
+        "duration": 648,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278704,
+        "page": 61,
+        "from": "vupload",
+        "part": "59_if例子2_对任意三个数字进行排序",
+        "duration": 1048,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13279017,
+        "page": 62,
+        "from": "vupload",
+        "part": "60_学习C语言常见误区 如何看懂一个程序 如何掌握一个程序",
+        "duration": 1375,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278616,
+        "page": 63,
+        "from": "vupload",
+        "part": "61_复习上机课知识",
+        "duration": 304,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278632,
+        "page": 64,
+        "from": "vupload",
+        "part": "62_选择8_空语句的问题",
+        "duration": 381,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13279106,
+        "page": 65,
+        "from": "vupload",
+        "part": "63_选择9_if常见问题解析【重点】",
+        "duration": 1678,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278624,
+        "page": 66,
+        "from": "vupload",
+        "part": "64_switch后面再讲",
+        "duration": 26,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278637,
+        "page": 67,
+        "from": "vupload",
+        "part": "65_ 循环的定义",
+        "duration": 96,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278639,
+        "page": 68,
+        "from": "vupload",
+        "part": "66_循环的分类",
+        "duration": 49,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13291996,
+        "page": 69,
+        "from": "vupload",
+        "part": "67_for循环1_为什么需要for循环",
+        "duration": 1339,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278795,
+        "page": 70,
+        "from": "vupload",
+        "part": "68_for循环2_for循环最简单的用法",
+        "duration": 627,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13279616,
+        "page": 71,
+        "from": "vupload",
+        "part": "69_for循环3_for和if的嵌套使用",
+        "duration": 1267,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13278857,
+        "page": 72,
+        "from": "vupload",
+        "part": "70_复习上节课知识",
+        "duration": 404,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13291997,
+        "page": 73,
+        "from": "vupload",
+        "part": "71_for循环4_强制类型转化和对初学者很重要求和程序讲解",
+        "duration": 1459,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13279960,
+        "page": 74,
+        "from": "vupload",
+        "part": "72_for循环5_浮点数的存错所带来的问题",
+        "duration": 994,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280174,
+        "page": 75,
+        "from": "vupload",
+        "part": "73_for循环6_for和if的嵌套使用四个习题的讲解",
+        "duration": 1612,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280152,
+        "page": 76,
+        "from": "vupload",
+        "part": "74_for循环7_多层for循环嵌套使用执行顺序【极其重要",
+        "duration": 1510,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13279787,
+        "page": 77,
+        "from": "vupload",
+        "part": "75_进制",
+        "duration": 666,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280362,
+        "page": 78,
+        "from": "vupload",
+        "part": "76_自增自减",
+        "duration": 1233,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13279883,
+        "page": 79,
+        "from": "vupload",
+        "part": "77 _ 运算符补充2 _ 三目运算符",
+        "duration": 168,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13279937,
+        "page": 80,
+        "from": "vupload",
+        "part": "78 _ 运算符补充3 _ 逗号表达式",
+        "duration": 255,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13279989,
+        "page": 81,
+        "from": "vupload",
+        "part": "79_for循环8 _ 复习多个for循环嵌套使用时执行顺序",
+        "duration": 510,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280368,
+        "page": 82,
+        "from": "vupload",
+        "part": "80_for嵌套循环",
+        "duration": 999,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280036,
+        "page": 83,
+        "from": "vupload",
+        "part": "81 _ while循环1 _ while概述",
+        "duration": 76,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280055,
+        "page": 84,
+        "from": "vupload",
+        "part": "82 _ while循环2 _ while执行顺序",
+        "duration": 64,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280294,
+        "page": 85,
+        "from": "vupload",
+        "part": "83 _ for和while的比较",
+        "duration": 516,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 17220311,
+        "page": 86,
+        "from": "vupload",
+        "part": "84.如何看懂一个程序举例_1 _ 用while判断是否是回文数【重点】",
+        "duration": 1303,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280511,
+        "page": 87,
+        "from": "vupload",
+        "part": "85_如何看懂一个程序举例_2_菲波拉契序列_1 --",
+        "duration": 584,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280518,
+        "page": 88,
+        "from": "vupload",
+        "part": "86 _ 如何看懂一个程序举例_2 _ 菲波拉契序列_2",
+        "duration": 734,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280381,
+        "page": 89,
+        "from": "vupload",
+        "part": "87_什么时候使用while，什么时候使用for",
+        "duration": 109,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280491,
+        "page": 90,
+        "from": "vupload",
+        "part": "88_do...while 与 while和for的比较",
+        "duration": 270,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280609,
+        "page": 91,
+        "from": "vupload",
+        "part": "89 _ 一元二次方程 用do...while 实现",
+        "duration": 1036,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13291998,
+        "page": 92,
+        "from": "vupload",
+        "part": "90 _ switch的用法简介",
+        "duration": 610,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280587,
+        "page": 93,
+        "from": "vupload",
+        "part": "91 _ switch琐碎非重点知识介绍",
+        "duration": 398,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13291999,
+        "page": 94,
+        "from": "vupload",
+        "part": "92 _ break的用法【重点】",
+        "duration": 1235,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280788,
+        "page": 95,
+        "from": "vupload",
+        "part": "93 _ continue的用法",
+        "duration": 745,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292000,
+        "page": 96,
+        "from": "vupload",
+        "part": "94_学C语言为什么无法做出像样东西 和 各门课程之间关系",
+        "duration": 595,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280853,
+        "page": 97,
+        "from": "vupload",
+        "part": "95_流程控制 总复习",
+        "duration": 635,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280997,
+        "page": 98,
+        "from": "vupload",
+        "part": "96_流程控制 总测试",
+        "duration": 1076,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280746,
+        "page": 99,
+        "from": "vupload",
+        "part": "97_数组_1_数组概述",
+        "duration": 90,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280891,
+        "page": 100,
+        "from": "vupload",
+        "part": "98_数组_2_数组的简单使用",
+        "duration": 318,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280892,
+        "page": 101,
+        "from": "vupload",
+        "part": "99_数组_3_为什么需要数组",
+        "duration": 496,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280804,
+        "page": 102,
+        "from": "vupload",
+        "part": "100_数组_4_数组之所以不是我们学习重点的原因",
+        "duration": 157,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281719,
+        "page": 103,
+        "from": "vupload",
+        "part": "101_数组_5_一维数组的使用",
+        "duration": 1549,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281447,
+        "page": 104,
+        "from": "vupload",
+        "part": "102_数组_6_二维数组的使用",
+        "duration": 1150,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13280902,
+        "page": 105,
+        "from": "vupload",
+        "part": "103_数组_7_是否存在多维数组",
+        "duration": 340,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292001,
+        "page": 106,
+        "from": "vupload",
+        "part": "104_函数1_函数概述",
+        "duration": 280,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281568,
+        "page": 107,
+        "from": "vupload",
+        "part": "105_函数2_函数使用简单介绍",
+        "duration": 1563,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292002,
+        "page": 108,
+        "from": "vupload",
+        "part": "106_函数3_为什么需要函数",
+        "duration": 444,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281312,
+        "page": 109,
+        "from": "vupload",
+        "part": "107_函数4_什么是函数",
+        "duration": 829,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281206,
+        "page": 110,
+        "from": "vupload",
+        "part": "108_函数5_如何定义函数",
+        "duration": 619,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292003,
+        "page": 111,
+        "from": "vupload",
+        "part": "109_函数6_return和break的区别",
+        "duration": 512,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292004,
+        "page": 112,
+        "from": "vupload",
+        "part": "110_函数7_函数的分类",
+        "duration": 322,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282524,
+        "page": 113,
+        "from": "vupload",
+        "part": "111_函数_8_函数举例_判断一个数字是否是素数",
+        "duration": 1537,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292005,
+        "page": 114,
+        "from": "vupload",
+        "part": "112_函数_9_复习上节课知识",
+        "duration": 910,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281491,
+        "page": 115,
+        "from": "vupload",
+        "part": "113_函数_10_函数的声明",
+        "duration": 1117,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292006,
+        "page": 116,
+        "from": "vupload",
+        "part": "114_函数_11_形参和实参",
+        "duration": 342,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281939,
+        "page": 117,
+        "from": "vupload",
+        "part": "115_函数_12_如何在开发中合理的设计函数来解决实际问题",
+        "duration": 2798,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281612,
+        "page": 118,
+        "from": "vupload",
+        "part": "116_函数_13_复习上节课知识",
+        "duration": 375,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281698,
+        "page": 119,
+        "from": "vupload",
+        "part": "117_函数14_常用系统函数和如何通过书籍学习系统函数",
+        "duration": 514,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281642,
+        "page": 120,
+        "from": "vupload",
+        "part": "118_函数_15_递归",
+        "duration": 396,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 482,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292007,
+        "page": 121,
+        "from": "vupload",
+        "part": "119_函数_16_函数复习",
+        "duration": 870,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282504,
+        "page": 122,
+        "from": "vupload",
+        "part": "120_函数_17_变量的作用域和存储方式",
+        "duration": 1336,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282555,
+        "page": 123,
+        "from": "vupload",
+        "part": "121_指针_1_指针用法初次简单介绍【重点】",
+        "duration": 2419,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282278,
+        "page": 124,
+        "from": "vupload",
+        "part": "122_指针2_指针的重要性",
+        "duration": 448,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282962,
+        "page": 125,
+        "from": "vupload",
+        "part": "123_指针3_什么是地址",
+        "duration": 897,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282446,
+        "page": 126,
+        "from": "vupload",
+        "part": "124_指针4_什么是指针",
+        "duration": 230,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13281864,
+        "page": 127,
+        "from": "vupload",
+        "part": "125_指针5_基本类型指针",
+        "duration": 236,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282888,
+        "page": 128,
+        "from": "vupload",
+        "part": "126_指针6_基本类型指针常见错误解析",
+        "duration": 1587,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292008,
+        "page": 129,
+        "from": "vupload",
+        "part": "127_指针7_经典指针程序_互换两个数字",
+        "duration": 1864,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282682,
+        "page": 130,
+        "from": "vupload",
+        "part": "128_指针8_星号的三种含义",
+        "duration": 349,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282927,
+        "page": 131,
+        "from": "vupload",
+        "part": "129_指针9_复习前面所有指针知识 实参和形参永远是不同",
+        "duration": 2104,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13292009,
+        "page": 132,
+        "from": "vupload",
+        "part": "130_指针10_通过指针为什么可以使被调函数修改主调函数多",
+        "duration": 719,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13283323,
+        "page": 133,
+        "from": "vupload",
+        "part": "131_指针11_一维数组和指针关系概述",
+        "duration": 582,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13282987,
+        "page": 134,
+        "from": "vupload",
+        "part": "132_指针12_下标和指针的关系",
+        "duration": 360,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13283103,
+        "page": 135,
+        "from": "vupload",
+        "part": "133_指针13_一维数组名的含义",
+        "duration": 360,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329512,
+        "page": 136,
+        "from": "vupload",
+        "part": "134_指针14_确定一个一维数组需要2个参数及其原因",
+        "duration": 2425,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329513,
+        "page": 137,
+        "from": "vupload",
+        "part": "135_指针15_复习上节课知识",
+        "duration": 702,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329514,
+        "page": 138,
+        "from": "vupload",
+        "part": "136_指针16_指针变量的运算",
+        "duration": 327,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329515,
+        "page": 139,
+        "from": "vupload",
+        "part": "137_指针17_何谓变量的地址 一个指针变量到底占几个字节",
+        "duration": 1513,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329516,
+        "page": 140,
+        "from": "vupload",
+        "part": "138_指针18_动态内存分配概述",
+        "duration": 227,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329517,
+        "page": 141,
+        "from": "vupload",
+        "part": "139_指针19_传统数组的缺点【重点】",
+        "duration": 1199,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329518,
+        "page": 142,
+        "from": "vupload",
+        "part": "140_指针20_为什么需要动态分配内存【重点】",
+        "duration": 77,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329519,
+        "page": 143,
+        "from": "vupload",
+        "part": "141_指针_21_malloc函数使用的简单介绍",
+        "duration": 1691,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329520,
+        "page": 144,
+        "from": "vupload",
+        "part": "142_指针_22_malloc函数的用法续",
+        "duration": 992,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329521,
+        "page": 145,
+        "from": "vupload",
+        "part": "143_指针_23_动态内存分配举例_动态一维数组的构造",
+        "duration": 2113,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329522,
+        "page": 146,
+        "from": "vupload",
+        "part": "144_指针_24_动态内存和静态内存的比较【重点】",
+        "duration": 1203,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329523,
+        "page": 147,
+        "from": "vupload",
+        "part": "145_指针_25_多级指针",
+        "duration": 967,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329524,
+        "page": 148,
+        "from": "vupload",
+        "part": "146_指针_26_复习上节课知识",
+        "duration": 284,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329525,
+        "page": 149,
+        "from": "vupload",
+        "part": "147_指针_27_闲聊",
+        "duration": 281,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329526,
+        "page": 150,
+        "from": "vupload",
+        "part": "148_指针_28_静态变量不能跨函数使用详解【重点",
+        "duration": 749,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329527,
+        "page": 151,
+        "from": "vupload",
+        "part": "149_指针_29_动态内存可以跨函数使用详解【重点】",
+        "duration": 804,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329528,
+        "page": 152,
+        "from": "vupload",
+        "part": "150_指针_30_跨函数使用内存习题测试【重点】",
+        "duration": 353,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329529,
+        "page": 153,
+        "from": "vupload",
+        "part": "151_结构体1_为什么需要结构体 什么叫结构体【重点",
+        "duration": 940,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329530,
+        "page": 154,
+        "from": "vupload",
+        "part": "152_结构体2_如何定义结构体[3种方式]",
+        "duration": 266,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329531,
+        "page": 155,
+        "from": "vupload",
+        "part": "153_结构体3__怎样使用结构体变量概述",
+        "duration": 157,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329532,
+        "page": 156,
+        "from": "vupload",
+        "part": "154_结构体4_结构体的赋值和初始化",
+        "duration": 276,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329533,
+        "page": 157,
+        "from": "vupload",
+        "part": "155_结构体5_如何取出结构体变量中的每一个成员【重点】",
+        "duration": 1505,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329534,
+        "page": 158,
+        "from": "vupload",
+        "part": "156_结构体6_布置作业",
+        "duration": 130,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329535,
+        "page": 159,
+        "from": "vupload",
+        "part": "157_考前知识点概述",
+        "duration": 280,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329536,
+        "page": 160,
+        "from": "vupload",
+        "part": "158_结构体7_复习上节课知识",
+        "duration": 490,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329537,
+        "page": 161,
+        "from": "vupload",
+        "part": "159_结构体8_通过函数完成对结构体变量的输入和输出",
+        "duration": 1358,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329538,
+        "page": 162,
+        "from": "vupload",
+        "part": "160_结构体9_应该发送内容还是应该发送地址【重点】",
+        "duration": 529,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329539,
+        "page": 163,
+        "from": "vupload",
+        "part": "161指针优点大总结【重点】",
+        "duration": 752,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329540,
+        "page": 164,
+        "from": "vupload",
+        "part": "162_结构体10_结构体变量的运算",
+        "duration": 170,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329541,
+        "page": 165,
+        "from": "vupload",
+        "part": "163_冒泡排序",
+        "duration": 1248,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329542,
+        "page": 166,
+        "from": "vupload",
+        "part": "164_结构体11_综合应用_学生管理系统(存储，排序，输出",
+        "duration": 1732,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329543,
+        "page": 167,
+        "from": "vupload",
+        "part": "165_枚举 上",
+        "duration": 103,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329619,
+        "page": 168,
+        "from": "vupload",
+        "part": "166_枚举 下",
+        "duration": 970,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329545,
+        "page": 169,
+        "from": "vupload",
+        "part": "167_进制转化",
+        "duration": 1954,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329546,
+        "page": 170,
+        "from": "vupload",
+        "part": "168_补码 上",
+        "duration": 2860,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329547,
+        "page": 171,
+        "from": "vupload",
+        "part": "169_复习上节课补码知识",
+        "duration": 514,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329548,
+        "page": 172,
+        "from": "vupload",
+        "part": "170_补码 下",
+        "duration": 1629,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329549,
+        "page": 173,
+        "from": "vupload",
+        "part": "171_链表 上",
+        "duration": 1089,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329550,
+        "page": 174,
+        "from": "vupload",
+        "part": "172_链表 中",
+        "duration": 2310,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329551,
+        "page": 175,
+        "from": "vupload",
+        "part": "173_链表_下",
+        "duration": 1846,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329552,
+        "page": 176,
+        "from": "vupload",
+        "part": "174_狭义的算法",
+        "duration": 238,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329553,
+        "page": 177,
+        "from": "vupload",
+        "part": "175_广义的算法",
+        "duration": 540,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329554,
+        "page": 178,
+        "from": "vupload",
+        "part": "176_位运算符",
+        "duration": 2127,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329555,
+        "page": 179,
+        "from": "vupload",
+        "part": "177_文件 宏 typedef 漫谈[课程全部结束]",
+        "duration": 140,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329556,
+        "page": 180,
+        "from": "vupload",
+        "part": "178_C期末考试测试题讲解 上",
+        "duration": 4040,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329557,
+        "page": 181,
+        "from": "vupload",
+        "part": "179_NULL的含义",
+        "duration": 996,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      },
+      {
+        "cid": 13329558,
+        "page": 182,
+        "from": "vupload",
+        "part": "180_C期末考试测试题讲解 下",
+        "duration": 953,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 480,
+          "height": 360,
+          "rotate": 0
+        }
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {}
+  }
+}

@@ -1,0 +1,66 @@
+body {
+  font-family: monospace;
+  word-wrap: break-word;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+aside {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 2em;
+  padding: 2em;
+  background-color: hsla(0, 0%, 100%, 0.5);
+  backdrop-filter: saturate(180%) blur(1em);
+  -webkit-backdrop-filter: saturate(180%) blur(1em);
+  cursor: move;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.try {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+textarea {
+  width: 60%;
+  height: 4em;
+}
+
+button {
+  margin-left: 0.5em;
+}
+
+label {
+  display: flex;
+  align-items: center;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+@media (max-width: 768px) {
+  aside {
+    position: relative;
+  }
+}
+
+@supports not ((backdrop-filter: none;) or (-webkit-backdrop-filter: none;)) {
+  aside {
+    background-color: hsla(0, 0%, 100%, 0.8);
+  }
+}

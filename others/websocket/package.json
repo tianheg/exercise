@@ -1,0 +1,10 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.34",
+    "ws": "^8.2.3"
+  }
+}
