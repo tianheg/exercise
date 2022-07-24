@@ -1,0 +1,116 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+}
+
+.child {
+  width: 100px;
+  height: 150px;
+  background: #eeeff2;
+  margin: 0 5px;
+  padding-left: 10px;
+  font-size: 40px;
+  font-family: Roboto, sans-serif;
+  white-space: nowrap;
+}
+
+/* #A {
+  background: linear-gradient(
+      217deg,
+      rgba(255, 0, 0, 0.6),
+      rgba(255, 0, 0, 0) 66%
+    ),
+    linear-gradient(127deg, rgba(0, 255, 0, 0.6), rgba(0, 255, 0, 0) 66%),
+    linear-gradient(336deg, rgba(0, 0, 255, 0.6), rgba(0, 0, 255, 0) 66%);
+} */
+
+#B {
+  background: linear-gradient(
+    to left top,
+    rgba(111, 222, 255, 0.6),
+    rgba(222, 111, 255, 0.6)
+  );
+}
+
+#C {
+  background: linear-gradient(0deg, blue, green 40%, red);
+}
+
+#D {
+  background: linear-gradient(0.25turn, red, 10%, blue);
+}
+
+#E {
+  background: linear-gradient(
+    red 0%,
+    orange 25%,
+    yellow 50%,
+    green 75%,
+    blue 100%
+  );
+}
+
+#E:hover {
+  background: linear-gradient(red 10%, green 50%, yellow 50%, blue 90%);
+}
+
+#F {
+  width: calc(100% - 555px);
+  background: linear-gradient(
+    to right,
+    red 20%,
+    orange 20% 40%,
+    yellow 40% 60%,
+    green 60% 80%,
+    blue 80%
+  );
+  transition-property: width;
+  transition-duration: 2s;
+}
+
+#F:hover {
+  width: calc(100% - 5px);
+  margin-bottom: 10px;
+}
+
+#A {
+  background: radial-gradient(
+        circle at 0% 50%,
+        rgba(96, 16, 48, 0) 9px,
+        #613 10px,
+        rgba(96, 16, 48, 0) 11px
+      )
+      0px 10px,
+    radial-gradient(
+      at 100% 100%,
+      rgba(96, 16, 48, 0) 9px,
+      #613 10px,
+      rgba(96, 16, 48, 0) 11px
+    ),
+    #8a3;
+  background-size: 20px 20px;
+  animation: updown 3s ease-in-out infinite;
+  box-shadow: .1em .2em red;
+}
+
+@keyframes updown {
+  0% {
+    transform: translateY(0%)
+  }
+  25% {
+    transform: translateY(50%)
+  }
+  50% {
+    transform: translateY(100%)
+  }
+  75% {
+    transform: translateY(50%)
+  }
+  100% {
+    transform: translateY(0%)
+  }
+}
