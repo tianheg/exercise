@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+
+main {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+main h1 {
+  margin-bottom: calc(1em * 2);
+}
+
+.calendar {
+  /* display: grid; */
+}
+
+.week-day,
+.week-27,
+.week-28,
+.week-29,
+.week-30,
+.week-31 {
+  margin: 1rem 0 1rem 0;
+  display: flex;
+}
+
+.week-day > div,
+.week-27 > div,
+.week-28 > div,
+.week-29 > div,
+.week-30 > div,
+.week-31 > div {
+  width: 2rem;
+  height: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.today {
+  flex-direction: column;
+  position: relative;
+}
+
+#day-24 {
+  font-size: 1.5em;
+  color: #d50e10;
+  position: absolute;
+  top: -.5em;
+}
+
+#today {
+  background-color: aqua;
+  width: 1em;
+  height: 1em;
+  /* border: 1em solid blue; */
+  /* border-width: 1em 1.5em 1em 1.5em; */
+
+  /* border-bottom-color: #d50e10; */
+  /* position: relative; */
+  /* top: .1em; */
+}
+
+#today::after {
+  content: "";
+  position: absolute;
+  left: -1.5em;
+  top: .96em;
+  width: 0;
+  height: 0;
+  border: 1em solid transparent;
+  border-width: 1em 1.5em 1em 1.5em;
+
+  border-top-color: #d50e10;
+}
